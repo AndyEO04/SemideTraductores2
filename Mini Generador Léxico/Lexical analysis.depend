@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1599968075 source:c:\users\asus\documents\5to. semestre\seminario traductores de lenguaje ll\lexical analysis\main.cpp
+	<iostream>
+	<cstring>
+	<locale>
+	"Analizer.h"
+
+1599969534 c:\users\asus\documents\5to. semestre\seminario traductores de lenguaje ll\lexical analysis\analizer.h
+
+1599967837 source:c:\users\asus\documents\lexical analysis\main.cpp
+	<iostream>
+	<cstring>
+	<locale>
+	"Analizer.h"
+
+1599967126 c:\users\asus\documents\lexical analysis\analizer.h
+
+1615066849 source:c:\users\idani\onedrive\documentos\seminario de traductores ii\traductores de lenguaje ll\traductores de lenguaje ll\lexical analysis\main.cpp
+	<iostream>
+	<cstring>
+	<locale>
+	<stdio.h>
+	"Analizer.h"
+
+1615067017 c:\users\idani\onedrive\documentos\seminario de traductores ii\traductores de lenguaje ll\traductores de lenguaje ll\lexical analysis\analizer.h
+
+1615072840 source:c:\users\andre\downloads\generador léxico\generador léxico\main.cpp
+	<iostream>
+	<cstring>
+	<locale>
+	<stdio.h>
+	"Analizer.h"
+
+1615067018 c:\users\andre\downloads\generador léxico\generador léxico\analizer.h
+
